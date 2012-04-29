@@ -1,0 +1,52 @@
+{"frames": {
+
+"gbc.png":
+{
+	"frame": {"x":2,"y":647,"w":195,"h":258},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":258},
+	"sourceSize": {"w":195,"h":258}
+},
+"gc.png":
+{
+	"frame": {"x":2,"y":2,"w":662,"h":643},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":662,"h":643},
+	"sourceSize": {"w":662,"h":643}
+},
+"n64.png":
+{
+	"frame": {"x":199,"y":647,"w":179,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":240},
+	"sourceSize": {"w":179,"h":240}
+},
+"nes.png":
+{
+	"frame": {"x":1268,"y":2,"w":480,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":480},
+	"sourceSize": {"w":480,"h":480}
+},
+"wii.png":
+{
+	"frame": {"x":666,"y":2,"w":600,"h":626},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":626},
+	"sourceSize": {"w":600,"h":626}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "testdata.png",
+	"format": "RGBA8888",
+	"size": {"w":1750,"h":907},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:210c7a387b2a1cd639b384f613d64d7e$"
+}
+}
